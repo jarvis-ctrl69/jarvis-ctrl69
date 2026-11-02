@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm jarvis-ctrl69
 
-<!--
-**jarvis-ctrl69/jarvis-ctrl69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build full-stack applications and explore practical DevOps workflows, with a focus on clear documentation and repeatable local setup.
 
-Here are some ideas to get you started:
+## Featured project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [MoneyMate — Cloud & DevOps](https://github.com/jarvis-ctrl69/MoneyMate-Cloud-DevOps)
+
+A React/Vite frontend and Express/Mongoose backend packaged for local development with Docker Compose and MongoDB.
+
+**Technologies:** React · Vite · JavaScript · Express · Mongoose · MongoDB · Docker Compose
+
+## Current focus
+
+- Building and documenting full-stack applications
+- Practicing containerization and CI/CD workflows
+
+## Find me
+
+- [GitHub repositories](https://github.com/jarvis-ctrl69?tab=repositories)
